@@ -1,5 +1,15 @@
 ## Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api?username=stefanusvemas&show_icons=true&count_private=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanusvemas&layout=compact&theme=tokyonight">
 
+## 💻 Skills
+- Programming Languages: PHP, JS, Java, C#, C, Dart,
+- Web Development: Laravel, .NET, React, Next.js
+- Database Management: PostgreSQL, Microsoft SQL Server, MongoDB
+
+## 🌍 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/stefanus-vemas/)
+- [Personal Website](https://vemas.dev/)
 <!--
 **stefanusvemas/stefanusvemas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
