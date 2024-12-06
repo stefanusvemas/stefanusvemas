@@ -1,6 +1,6 @@
 ## Hi there 👋
-<img src="https://github-readme-stats.vercel.app/api?username=stefanusvemas&show_icons=true&count_private=true&theme=tokyonight">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stefanusvemas&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats-red-seven-55.vercel.app/api?username=stefanusvemas&show_icons=true&count_private=true&theme=tokyonight">
+<img src="https://github-readme-stats-red-seven-55.vercel.app/api/top-langs/?username=stefanusvemas&layout=compact&theme=tokyonight">
 
 ## 💻 Skills
 - Programming Languages: PHP, JS, Java, C#, C, Dart,
